@@ -1,0 +1,1 @@
+ <? $isbn = $_GET['bookisbn']; ?>
